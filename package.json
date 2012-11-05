@@ -1,0 +1,8 @@
+{
+  "name": "simpleConfig",
+  "version": "0.0.1",
+  "description": "Very simple configuration lib",
+  "keywords": ["configuration", "lib"],
+  "repository": "git://github.com/senchalabs/connect.git",
+  "author": "Dmitry Vorobiov <dvorobiov@paralect.com>"
+}
