@@ -2,8 +2,8 @@
 exports = module.exports = config;
 
 var config = {}
-	, currentEnvironment = process.env.ENV_VARIABLE || 'development';
-	, config.settings = {};
+  , currentEnvironment = process.env.ENV_VARIABLE || 'development';
+  , config.settings = {};
 
 config.configure = function(env, fn){
   var envs = 'all'
@@ -25,7 +25,7 @@ config.set = function(setting, val){
 };
 
 config.get = function(setting) {
-	return this.settings[setting];
+  return this.settings[setting];
 };
 
 
