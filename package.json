@@ -3,6 +3,6 @@
   "version": "0.0.1",
   "description": "Very simple configuration lib",
   "keywords": ["configuration", "lib"],
-  "repository": "git://github.com/senchalabs/connect.git",
-  "author": "Dmitry Vorobiov <dvorobiov@paralect.com>"
+  "repository": "git@github.com:dvorobiov/simpleConfig.git",
+  "author": "d vorobiov <dvorobiov@paralect.com>"
 }
